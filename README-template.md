@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-profile-card-component-L-abkvEZKG)
+- Live Site URL: [here](https://fem-profile-card-raysh3n.netlify.app/)
 
 ## My process
 
